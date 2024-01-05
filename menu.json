@@ -1,0 +1,70 @@
+{
+    "restaurant_name": "Steak for C++",
+    "location": "7th Floor, Cairo University",
+    "menu_sections": [
+    {
+    "section_name": "Appetizers",
+    "dishes": [
+    {
+    "dish_name": "Bruschetta",
+    "description": "Toasted baguette topped with diced tomatoes, fresh basil, garlic, and olive oil.",
+    "price": 8.99,
+    "rating": 4.5,
+    "image_url": "https://www.pngall.com/wp-content/uploads/13/Bruschetta-Cheese-PNG-Pic.png"
+    },
+    {
+    "dish_name": "Spinach Artichoke Dip",
+    "description": "Creamy dip made with spinach, artichokes, and melted cheese. Served with tortilla chips.",
+    "price": 10.99,
+    "rating": 4.0,
+    "image_url": "https://th.bing.com/th/id/OIP.jp2MQNfsTi-sFQrDOO2pdQAAAA?pid=ImgDet&rs=1"
+    }
+    ]
+    },
+    {
+    "section_name": "Main Courses",
+    "dishes": [
+    {
+    "dish_name": "Grilled Salmon",
+    "description": "Freshly grilled salmon fillet seasoned with herbs. Served with steamed vegetables and rice.",
+    "price": 18.99,
+    "rating": 4.8,
+    "image_url": "https://th.bing.com/th/id/OIP.Oz3oLUonRrEv3SRJTTrQdQHaE8?pid=ImgDet&rs=1"
+    },
+    {
+    "dish_name": "Pasta Primavera",
+    "description": "Fettuccine pasta tossed with a medley of sautéed vegetables in a light cream sauce.",
+    "price": 14.99,
+    "rating": 4.2,
+    "image_url": "https://th.bing.com/th/id/R.a4938262d1b9afa87e5ce4915b95927a?rik=Dg7emT2vvMiddg&pid=ImgRaw&r=0"
+    },
+    {
+    "dish_name": "Filet Mignon",
+    "description": "Tender filet mignon steak cooked to perfection. Served with mashed potatoes and asparagus.",
+    "price": 26.99,
+    "rating": 4.9,
+    "image_url": "https://th.bing.com/th/id/OIP.aR6yPhVFj5Lmy1UXotFt_QAAAA?pid=ImgDet&rs=1"
+    }
+    ]
+    },
+    {
+    "section_name": "Desserts",
+    "dishes": [
+    {
+    "dish_name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center. Served with vanilla ice cream.",
+    "price": 7.99,
+    "rating": 4.6,
+    "image_url": "https://th.bing.com/th/id/OIP.NuN9D4cWmp_5ej1GwdJ5sgHaHa?pid=ImgDet&rs=1"
+    },
+    {
+    "dish_name": "New York Cheesecake",
+    "description": "Classic creamy cheesecake topped with your choice of fruit compote.",
+    "price": 6.99,
+    "rating": 4.4,
+    "image_url": "https://th.bing.com/th/id/OIP.7p2fIHDp59Quz6LeuYUufAHaFE?pid=ImgDet&rs=1"
+    }
+    ]
+    }
+    ]
+   }
